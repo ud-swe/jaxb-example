@@ -4,7 +4,7 @@ import java.util.List;
 
 import lombok.Data;
 
-import javax.xml.bind.annotation.*;
+import jakarta.xml.bind.annotation.*;
 
 @XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)
